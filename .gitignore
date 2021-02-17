@@ -1,0 +1,11 @@
+./stats/node_modules
+./stats/build
+./sort/node_modules
+./sort/build
+./maps/node_modules
+./maps/.cache
+./maps/dist
+./fetchjson/node_modules
+.DS_Store
+.idea
+.~/build
