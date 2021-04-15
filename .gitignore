@@ -6,6 +6,9 @@
 ./maps/.cache
 ./maps/dist
 ./fetchjson/node_modules
+./web/node_modules
+./web/.cache
+./web/dist
 .DS_Store
 .idea
 .~/build

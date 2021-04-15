@@ -1,0 +1,87 @@
+{
+  "users": [
+    {
+      "name": "Damilola",
+      "age": 22,
+      "id": 1
+    },
+    {
+      "name": "Ogo oko",
+      "age": 22,
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "name": "wisdome king",
+      "age": 41,
+      "id": 4
+    },
+    {
+      "name": "restie opor",
+      "age": 41,
+      "id": 5
+    },
+    {
+      "name": "jumi polo",
+      "age": 41,
+      "id": 6
+    },
+    {
+      "name": "wumin maiz",
+      "age": 41,
+      "id": 7
+    },
+    {
+      "name": "jide ola",
+      "age": 41,
+      "id": 8
+    },
+    {
+      "name": "seun made",
+      "age": 41,
+      "id": 9
+    },
+    {
+      "name": "dominic james",
+      "age": 11,
+      "id": 10
+    },
+    {
+      "name": "dominic james",
+      "age": 11,
+      "id": 11
+    },
+    {
+      "name": "dominic james",
+      "age": 11,
+      "id": 12
+    },
+    {
+      "name": "dominic james",
+      "age": 11,
+      "id": 13
+    },
+    {
+      "name": "dominic james",
+      "age": 11,
+      "id": 14
+    },
+    {
+      "name": "dominic james",
+      "age": 11,
+      "id": 15
+    },
+    {
+      "name": "Natash Oma",
+      "age": 39,
+      "id": 16
+    },
+    {
+      "name": "Natash Oma",
+      "age": 39,
+      "id": 17
+    }
+  ]
+}
